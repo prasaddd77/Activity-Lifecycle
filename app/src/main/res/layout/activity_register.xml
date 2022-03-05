@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegisterActivity">
+
+    <EditText
+        android:id="@+id/etEnterNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="10dp"
+        android:maxLines="1"
+        android:hint="@string/enter_your_number"
+        android:textSize="18sp"
+        android:padding="6dp"
+        android:inputType="number" />
+    <EditText
+        android:id="@+id/etEnterPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etEnterNumber"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:padding="6dp"
+        android:hint="@string/enter_password_of_your_choice"
+        android:textSize="18sp"
+        android:inputType="textPassword"
+        android:maxLines="1"
+        />
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etEnterPassword"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:backgroundTint="@color/teal_700"
+        android:padding="10dp"
+        android:text="@string/register"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="18sp" />
+
+
+
+</RelativeLayout>

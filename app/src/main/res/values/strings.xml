@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">The Avengers</string>
+    <string name="mobile_number">Enter Mobile Number</string>
+    <string name="password">Enter Password</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register_yourself">Register Yourself</string>
+    <string name="message_text">Write Something</string>
+    <string name="button_send">SEND</string>
+    <string name="_91_66655555">+91 66655555</string>
+    <string name="tony_stark">Tony Stark</string>
+    <string name="tonystark_starkindustries_com">tonystark@starkindustries.com</string>
+    <string name="_91_11155555">+91 11155555</string>
+    <string name="steve_rogers">Steve Rogers</string>
+    <string name="steverogers123_starkindustries_com">steverogers123@starkindustries.com</string>
+    <string name="_91_22255555">+91 22255555</string>
+    <string name="thor">Thor</string>
+    <string name="godofthunder_starkindustries_com">godofthunder@starkindustries.com</string>
+    <string name="_91_33355555">+91 33355555</string>
+    <string name="bruce_banner">Bruce Banner</string>
+    <string name="brucebanner_starkindustries_com">brucebanner@starkindustries.com</string>
+    <string name="_91_44455555">+91 44455555</string>
+    <string name="king_t_challa">King T\'Challa</string>
+    <string name="tchallabp_starkindustries_com">tchallabp@starkindustries.com</string>
+    <string name="natasha_romanoff">Natasha Romanoff</string>
+    <string name="natasharomanoffs_starkindustries_com">natasharomanoffs@starkindustries.com</string>
+    <string name="_91_77755555">+91 77755555</string>
+    <string name="preference_file_name">Avengers Preferences</string>
+    <string name="log_out">Log Out</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_number">Enter Your Number</string>
+    <string name="enter_password_of_your_choice">Enter password of your choice</string>
+    <string name="register">Register</string>
+</resources>
